@@ -55,7 +55,7 @@ function Home() {
                             id="53777554"
                             title="CODE FLORIST 2200 PCS Dark-Red Silk Rose Petals Wedding Flower Decoration"
                             image="https://images-na.ssl-images-amazon.com/images/I/71uSb4HsoHL._AC_SX522_.jpg"
-                            price={9.99}
+                            price={.99}
                             rating={4}
                         />
                     </div>

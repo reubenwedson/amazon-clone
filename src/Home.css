@@ -5,6 +5,11 @@
    max-width: 1500px;  
 }
 
+.home__cointainer {
+    overflow: hidden;
+}
+
+
 .home__row {
     display: flex;
     z-index: 1;
@@ -14,6 +19,6 @@
 .home__image { 
     width: 100%;
     z-index: -1;
-    margin: 0  0 -150px;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0, 0, 0, 0));
+    margin: 0  0 -360px;
+    /* mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0, 0, 0, 0)); */
 }
